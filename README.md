@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello 👋
 
+🔭 Please visit my website for info about me:
+> https://audrna.github.io 💖
 <!--
 **audrNa/audrNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
